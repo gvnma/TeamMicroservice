@@ -35,7 +35,7 @@ else:
 
 UML Diagram:
 
-![alt text]([UML diagram.PNG](https://github.com/gvnma/TeamMicroservice/blob/df0e5e9cf1ed8acddf784a3c9f0d79a202c63810/UML%20diagram.PNG)) 
+![alt text](https://github.com/gvnma/TeamMicroservice/blob/main/UML%20diagram.PNG?raw=true) 
 
 
 
